@@ -1,0 +1,219 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"iron-forest",
+			"AmyRose",
+			[
+				184,
+				115,
+				115
+			]
+		],		[
+			"goddess",
+			"Sally",
+			[
+				101,
+				48,
+				31
+			]
+		],		[
+			"Hedge",
+			"hog",
+			[
+				29,
+				24,
+				206
+			]
+		],		[
+			"manual-blast",
+			"hog",
+			[
+				29,
+				24,
+				206
+			]
+		],		[
+			"hellbent",
+			"lord",
+			[
+				45,
+				46,
+				64
+			]
+		],		[
+			"gotta-go",
+			"soylent",
+			[
+				120,
+				119,
+				176
+			]
+		],
+		[
+			"Fate",
+			"soylent",
+			[
+				120,
+				119,
+				176
+			]
+		],
+		[
+			"b4cksl4sh",
+			"sl4sh-pixel",
+			[
+				56,
+				56,
+				56
+			]
+		],
+
+		[
+			"malediction",
+			"curse-happy",
+			[
+				52,
+				59,
+				113
+			]
+		],
+		[
+			"substantial",
+			"xterion",
+			[
+				0,
+				12,
+				96
+			]
+		],
+		[
+			"digitalized",
+			"xterion",
+			[
+				0,
+				12,
+				96
+			]
+		],
+		[
+			"Slaybells",
+			"pexec",
+			[
+				106,
+				113,
+				175
+			]
+		],		[
+			"missiletoe",
+			"taildoll",
+			[
+				255,
+				180,
+				0
+			]
+		],
+
+		[
+			"my-horizon",
+			"wechidna",
+			[
+				140,
+				0,
+				40
+			]
+		],
+
+		[
+			"my-horizon-pixel",
+			"chaotix-pixel",
+			[
+				204,
+				51,
+				51
+			]
+		],
+
+		[
+			"forestall-desire",
+			"tails",
+			[
+				102,
+				102,
+				102
+			]
+		],
+		[
+			"burning",
+			"sb",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"mania",
+			"tails-secret",
+			[
+				224,
+				145,
+				82
+			]
+		],
+		[
+			"luther",
+			"luther",
+			[
+				254,
+				89,
+				0
+			]
+		],
+		[
+			"hollow",
+			"devoid",
+			[
+				12,
+				0,
+				131
+			]
+		],
+		[
+			"Shocker",
+			"sonichu",
+			[
+				254,
+				226,
+				107
+			]
+		],
+		[
+			"perdition",
+			"Satanos",
+			[
+				143,
+				153,
+				225
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
+}
