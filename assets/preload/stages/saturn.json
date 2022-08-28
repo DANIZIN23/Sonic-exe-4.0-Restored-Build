@@ -1,7 +1,8 @@
 {
-	"directory": "week2",
-	"defaultZoom": 1.05,
+	"directory": "",
+	"defaultZoom": 0.75,
 	"isPixelStage": false,
+	"hide_girlfriend":true,
 
 	"boyfriend": [770, 100],
 	"girlfriend": [400, 130],
