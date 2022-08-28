@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GF_hedhehog.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Danceleft0000" x="304" y="1038" width="299" height="524" frameX="-2" frameY="0" frameWidth="301" frameHeight="525"/>
+	<SubTexture name="Danceleft0001" x="603" y="0" width="294" height="520" frameX="0" frameY="-4" frameWidth="301" frameHeight="525"/>
+	<SubTexture name="Danceleft0002" x="308" y="0" width="295" height="520" frameX="0" frameY="-4" frameWidth="301" frameHeight="525"/>
+	<SubTexture name="Danceleft0003" x="603" y="520" width="292" height="523" frameX="-1" frameY="-2" frameWidth="301" frameHeight="525"/>
+	<SubTexture name="Danceleft0004" x="304" y="1038" width="299" height="524" frameX="-2" frameY="0" frameWidth="301" frameHeight="525"/>
+	<SubTexture name="Danceright0000" x="304" y="1038" width="299" height="524" frameX="0" frameY="0" frameWidth="301" frameHeight="525"/>
+	<SubTexture name="Danceright0001" x="0" y="519" width="307" height="519" frameX="-1" frameY="-5" frameWidth="310" frameHeight="525"/>
+	<SubTexture name="Danceright0002" x="0" y="0" width="308" height="519" frameX="-2" frameY="-5" frameWidth="310" frameHeight="525"/>
+	<SubTexture name="Danceright0003" x="0" y="1038" width="304" height="522" frameX="-1" frameY="-3" frameWidth="310" frameHeight="525"/>
+	<SubTexture name="Danceright0004" x="304" y="1038" width="299" height="524" frameX="0" frameY="0" frameWidth="301" frameHeight="525"/>
+	<SubTexture name="Danceright0005" x="304" y="1038" width="299" height="524" frameX="0" frameY="0" frameWidth="301" frameHeight="525"/>
+	<SubTexture name="Danceright0006" x="304" y="1038" width="299" height="524" frameX="0" frameY="0" frameWidth="301" frameHeight="525"/>
+</TextureAtlas>
